@@ -1,0 +1,11 @@
+transaction_id,product_id,customer_id,transaction_date,online_order,order_status
+1,2,2950,2/25/2017,False,Approved
+2,3,3120,5/21/2017,True,Approved
+3,37,402,10/16/2017,False,Approved
+4,88,3135,8/31/2017,False,Approved
+5,78,787,10/1/2017,True,Approved
+6,25,2339,3/8/2017,True,Approved
+7,22,1542,4/21/2017,True,Approved
+8,15,2459,7/15/2017,False,Approved
+9,67,1305,8/10/2017,False,Approved
+10,12,3262,8/30/2017,True,Approved

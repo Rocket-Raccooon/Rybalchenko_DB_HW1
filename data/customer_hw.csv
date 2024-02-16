@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,gender,DOB,job_title,job_industry_category,wealth_segment,deceased_indicator,owns_car,address,property_valuation
+1,Laraine,Medendorp,F,1953-10-12,Executive Secretary,Health,Mass Customer,N,Yes,060 Morning Avenue,10
+2,Eli,Bockman,Male,1980-12-16,Administrative Officer,Financial Services,Mass Customer,N,Yes,6 Meadow Vale Court,10
+3,Arlin,Dearle,Male,1954-01-20,Recruiting Manager,Property,Mass Customer,N,Yes,0 Holy Cross Court,9
+4,Talbot,,Male,1961-10-03,,IT,Mass Customer,N,No,17979 Del Mar Point,4
+5,Sheila-kathryn,Calton,Female,1977-05-13,Senior Editor,n/a,Affluent Customer,N,Yes,9 Oakridge Court,9
+6,Curr,Duckhouse,Male,1966-09-16,,Retail,High Net Worth,N,Yes,4 Delaware Trail,9
+7,Fina,Merali,Female,1976-02-23,,Financial Services,Affluent Customer,N,Yes,49 Londonderry Lane,4
+8,Rod,Inder,Male,1962-03-30,Media Manager I,n/a,Mass Customer,N,No,97736 7th Trail,12
+9,Mala,Lind,Female,1973-03-10,Business Systems Development Analyst,Argiculture,Affluent Customer,N,Yes,93405 Ludington Park,8
+10,Fiorenze,Birdall,Female,1988-10-11,Senior Quality Engineer,Financial Services,Mass Customer,N,Yes,44339 Golden Leaf Alley,4
